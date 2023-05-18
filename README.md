@@ -3,6 +3,7 @@
 本程序由北京工业大学2022级学生周子睿设计，仅供学习和参考
 ## 环境
 ### 编译
+
 - Microsoft Visual C++ 2015-2022
 
 - Microsoft Visual Studio 2022
@@ -12,6 +13,8 @@
 - MSVC(V141)
 
 - EasyX 220901
+
+我上传的是程序的源码，需要先在VS里编译，需要安装220901版本的EasyX
 ### 运行
 - Microsoft windows 10/11
 
